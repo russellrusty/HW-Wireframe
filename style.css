@@ -1,5 +1,18 @@
 .heading1{
     float: center;
-    padding-left: 50px;
+    padding-left: 500px;
     color: white;
-    background: #20B2AA;
+    background: #ebebeb;
+    
+    height: 400;
+    padding-top: 50px;
+}
+
+.nav {
+    text-align: center;
+    padding-top: 50px;
+    background-color: aqua
+    
+
+}
+
